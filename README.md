@@ -8,7 +8,8 @@
 - Web Applications
 - Databases
 - Internal Tools
-- I'm intrested in learning new things
+- Operating Systems
+- - I'm intrested in learning new things
 - I'm intrested in working on all sorts of projects
 
 <!---
