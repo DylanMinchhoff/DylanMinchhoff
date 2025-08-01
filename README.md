@@ -9,7 +9,7 @@
 - Databases
 - Internal Tools
 - Operating Systems
-- - I'm intrested in learning new things
+- I'm intrested in learning new things
 - I'm intrested in working on all sorts of projects
 
 <!---
