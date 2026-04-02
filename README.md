@@ -5,12 +5,10 @@
 ### My intrests include:
 
 - Compilers
-- Web Applications
+- Embedded
 - Databases
 - Internal Tools
 - Operating Systems
-- I'm intrested in learning new things
-- I'm intrested in working on all sorts of projects
 
 <!---
 ## Here is some of my featured Projects:
