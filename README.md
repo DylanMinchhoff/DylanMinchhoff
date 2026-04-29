@@ -1,8 +1,8 @@
 # About me
 
-### Hi, I’m Dylan Minchhoff. A University of Delaware computer Science student in High Performance Computing
+## Hi, I’m Dylan Minchhoff. A University of Delaware computer Science student in High Performance Computing
 
-### My intrests include:
+## My intrests include:
 
 - Compilers
 - Embedded
@@ -14,7 +14,11 @@
 ## Here is some of my featured Projects:
 --->
 
-If you would like to contact me my LinkedIn is www.linkedin.com/in/dylanminchhoff/
+## Some of my featured projects:
+
+[OS Project](https://github.com/DylanMinchhoff/os)
+
+If you would like to contact me my [LinkedIn](www.linkedin.com/in/dylanminchhoff/)
 
 
 <!---
