@@ -18,6 +18,8 @@
 
 [OS Project](https://github.com/DylanMinchhoff/os)
 
+[CISC471 Compiler project](https://github.com/DylanMinchhoff/471compiler)
+
 If you would like to contact me my [LinkedIn](www.linkedin.com/in/dylanminchhoff/)
 
 
